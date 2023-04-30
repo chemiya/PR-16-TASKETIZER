@@ -15,8 +15,8 @@
 <h2><li>Tecnologías utilizadas</li></h2>
 <p>Las tecnologías utilizadas para el desarrollo de este proyecto son:</p>
 <ul>
-<li>NextJS y Tailwind</li>
-<li>Base de datos: MongoDB</li>
+<li>NextJS y Tailwind.</li>
+<li>Base de datos: MongoDB.</li>
 </ul>
 
 <h2><li>Funcionalidad de la aplicación. Casos de uso</li></h2>
