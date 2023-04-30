@@ -429,21 +429,23 @@ La aplicacion contará con las siguientes vistas:
 
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Domingo 30 de abril</td>
+    <td>8:40</td>
+    <td>11:00</td>
+    <td>140</td>
+    <td>Cierre del proyecto</td>
+  </tr>
+    
+   <tr>
+    <td>Domingo 30 de abril</td>
+    <td>17:20</td>
+    <td>19:00</td>
+    <td>100</td>
+    <td>Cierre del proyecto</td>
   </tr>
 
 
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+ 
 
 
   
@@ -466,7 +468,7 @@ La aplicacion contará con las siguientes vistas:
 
 <h2><li>Resultado final: vídeo youtube y repositorio</li></h2>
 
-
+<p> Repositorio Github: https://github.com/chemiya/PR-16-TASKETIZER.git </p>
 
 
 
