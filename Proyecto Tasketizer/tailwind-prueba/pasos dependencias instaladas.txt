@@ -1,0 +1,30 @@
+npx create-next-app tasketizer
+npm run dev
+localhost:3000
+
+pages y styles dentro de src
+probar conexion mongodb
+npm i mongoose
+npm i mongodb
+npm i react-hook-form
+npm i cookies-next
+npm install react-cookie
+npm i @hookform/resolvers
+npm i yup
+
+jsconfig cambiar
+probar la api
+
+npm install semantic-ui-react semantic-ui-css
+import 'semantic-ui-css/semantic.min.css' en el _app
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+tailwind config añadir
+globals.css añadir 
+
+
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome

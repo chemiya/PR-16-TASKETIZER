@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.boton-enlace {
+  @apply bg-naranja-claro py-2 px-6 rounded-full text-white transition duration-500 hover:bg-naranja-oscuro  font-bold;
+}
+
+.boton-enlace-disabled {
+  @apply  py-2 px-6 rounded-full text-white  font-bold bg-grisClaro text-grisOscuro cursor-default;
+}
+
+
+.fondo{
+  background-image: url("./../pages/imagenes/ticks.jpg");
+}
+
+.alerta{
+  @apply text-rojo font-bold ;
+}
+
+.exito{
+  @apply text-verde font-bold ;
+}
+
+.titulo-azul{
+  @apply bg-azul-oscuro mb-4 font-bold text-3xl text-white rounded-full inline-block py-2 px-4;
+}
+
+.exito-filtro{
+  @apply bg-verde mb-4 ms-3 font-bold text-2xl text-white rounded-full inline-block py-2 px-4;
+}
+
+.boton-rojo{
+  @apply bg-rojo font-bold rounded-full px-6 py-2 text-white  mt-3 transition duration-500 hover:scale-105 hover:text-negro;
+}
