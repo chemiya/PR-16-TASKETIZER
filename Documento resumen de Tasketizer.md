@@ -354,7 +354,7 @@ La aplicacion contará con las siguientes vistas:
     <td>Viernes 28 de abril</td>
     <td>9:00</td>
     <td>10:35</td>
-    <td>105</td>
+    <td>95</td>
     <td>Desarrollo principales vistas</td>
   </tr>
 
