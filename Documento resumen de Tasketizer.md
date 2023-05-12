@@ -452,6 +452,8 @@ La aplicacion contará con las siguientes vistas:
   
 </table>
 
+<p><strong>Tiempo utilizado: 2420 minutos (40 horas y 20 minutos)</strong></p>
+
 
 
 <h2><li>Organización del proyecto: tablero y metodología</li></h2>
