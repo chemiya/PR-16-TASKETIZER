@@ -473,7 +473,8 @@ La aplicacion contará con las siguientes vistas:
 <p> Repositorio Github: https://github.com/chemiya/PR-16-TASKETIZER.git </p>
 
 
-
+<h2><li>Conclusiones</li></h2>
+He podido aplicar los pilares básicos aprendidos sobre NextJS para este proyecto. He visto todas las ventajas que proporciona y como facilita la creación de una aplicación web. He visto que Tailwind es de gran ayuda para dar estilos a una aplicación web y que facilita mucho el diseño. 
 
 
 
